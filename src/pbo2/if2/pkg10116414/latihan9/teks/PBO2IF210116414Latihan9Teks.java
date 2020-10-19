@@ -1,0 +1,29 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package pbo2.if2.pkg10116414.latihan9.teks;
+
+/**
+ *
+ * @author sweenutt
+ * NAMA         : FAEL ANTONI WIJAYA
+ * KELAS        : PBO-2
+ * NIM          : 10116414
+ * DESKRIPSI    : Program Memasukkan Teks
+ */
+public class PBO2IF210116414Latihan9Teks {
+
+    /**
+     * @param args the command line arguments
+     */
+   public static void main(String[] args) {
+        char c;
+        char tab = '\t';
+        char newline = '\n';
+        c = 'A';
+        System.out.println("Hasil" + newline + "Char" + tab + "berisi " + c);
+    }
+    
+}
